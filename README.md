@@ -1,2 +1,2 @@
-# saturdayai-recusivity
+# SaturdayAI-Recusivity
 Team 6
